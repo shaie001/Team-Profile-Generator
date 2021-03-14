@@ -1,3 +1,4 @@
+<img width="1377" alt="Screen Shot 2021-03-08 at 7 15 25 PM" src="https://user-images.githubusercontent.com/71299608/111088267-5baec880-84f4-11eb-8c22-2d5924b259ce.png">
 # Employee Summary
 
 This Node application will assist managers in generating a webpage that displays their team's basic info for quick access to emails and GitHub Profiles.
@@ -27,7 +28,7 @@ Run npm install to install all dependencies
 9.  Go to the output folder, find team.html and open it in your default web browser. this is your output web page for your team. It should look similar to below.
 
 ## screenshot 
-<img width="1171" alt="Screen Shot 2021-03-03 at 8 54 30 PM" src="">
+<img width="1171" alt="3 at 8 54 30 PM" src="">
 
 ## Tool & Resources
 

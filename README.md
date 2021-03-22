@@ -1,4 +1,4 @@
-<img width="1377" alt="Screen Shot 2021-03-08 at 7 15 25 PM" src="https://user-images.githubusercontent.com/71299608/111088267-5baec880-84f4-11eb-8c22-2d5924b259ce.png">
+ src="https://user-images.githubusercontent.com/71299608/111088267-5baec880-84f4-11eb-8c22-2d5924b259ce.png">
 # Employee Summary
 
 This Node application will assist managers in generating a webpage that displays their team's basic info for quick access to emails and GitHub Profiles.

@@ -30,6 +30,12 @@ Run npm install to install all dependencies
 ## screenshot 
 <img width="1171" alt="3 at 8 54 30 PM" src="">
 
+## Video Walkthrough
+
+https://user-images.githubusercontent.com/71299608/111928802-a1363d00-8a82-11eb-8c75-019522ee0e87.mov
+
+
+
 ## Tool & Resources
 
 Bootstrap - CSS framework used 

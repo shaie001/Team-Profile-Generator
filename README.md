@@ -27,8 +27,7 @@ Run npm install to install all dependencies
 
 9.  Go to the output folder, find team.html and open it in your default web browser. this is your output web page for your team. It should look similar to below.
 
-## screenshot 
-<img width="1171" alt="3 at 8 54 30 PM" src="">
+
 
 ## Video Walkthrough
 
